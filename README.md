@@ -77,8 +77,6 @@ This is a port, so a few things are not one to one with the PC build.
 
 ## Notes
 
-This is a testing build, bug reports and balancing feedback are welcome, just be nice about it.
-
 KrokMP 5.0.0 is a full remaster of the mod's sync and it will change how hosting and joining work, including
 Steam discovery. Expect a new APK once that lands. Until then this is the local only version, meant to be
 played with friends over direct IP.
