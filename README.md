@@ -22,6 +22,19 @@ browser in this version yet. Steam discovery is coming with **KrokMP 5.0.0**.
 To join, open the Multiplayer menu, set your name and the host IP, then press **JOIN KrokMP**. The host needs
 to be running KrokMP and hosting over direct IP.
 
+Use the host PC's **IPv4 address**, not `127.0.0.1`. On the PC, open Command Prompt and run `ipconfig`, then
+look for the IPv4 line under your active adapter, for example:
+
+```
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   IPv4 Address. . . . . . . . . . . : 192.168.1.42
+```
+
+Type that address (like `192.168.1.42`) into the Host IP field. Both devices need to be on the same network,
+and the PC may need to allow the game through its firewall on UDP port 7790.
+
 ## What works and what does not, until KrokMP 5.0.0
 
 | Feature | Status |
@@ -76,6 +89,8 @@ This is a port, so a few things are not one to one with the PC build.
 * The multiplayer connects to **KrokMP** (Krokosha's Casualties Together co op mod), which is what the host runs.
 
 ## Notes
+
+This is a testing build, bug reports and balancing feedback are welcome, just be nice about it.
 
 KrokMP 5.0.0 is a full remaster of the mod's sync and it will change how hosting and joining work, including
 Steam discovery. Expect a new APK once that lands. Until then this is the local only version, meant to be
