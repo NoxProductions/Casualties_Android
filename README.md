@@ -1,4 +1,4 @@
-# Casualties Unknown, Android Port with Multiplayer
+# Casualties: Android, A Port with Multiplayer
 
 This is an Android port of **Casualties Unknown**, with multiplayer built in so you can join real **KrokMP**
 co op games from your phone. Grab the APK from Releases, install it, open the Multiplayer menu, type a host's
@@ -75,17 +75,23 @@ and the PC may need to allow the game through its firewall on UDP port 7790.
 
 This is a port, so a few things are not one to one with the PC build.
 
-* Visuals are not identical. The shaders were rebuilt from scratch and some effects were simplified for
-  performance, so lighting and certain effects can look a little different from the PC version.
+* Visuals are not identical. The Dither shader was rebuilt from scratch and semi-ported, so lighting and certain effects can look a little different from the PC version.
 * The depression music is not one to one effect wise. It is supposed to have an echo, that was removed for now,
   and it comes back in the 5.0.0 update.
-* Performance on lower end phones is still rough. The 5.0.0 update brings more optimization so lower end devices
-  can run it above 10 fps.
+* Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 50fps on average.
+
+## Compatibility
+
+*MediaTek is **NOT** supported and most likely will never be due to a need of a massive rework on shaders for compatibility reasons.* 
+
+* Phone brands unsupported: Pixel ( Pixel 6 and newer / Tensor models ), Xiaomi ( Mid-Range & Upper Mid-Range ), Redmi ( Budget & Mid-Range ), Poco ( Select Mid-Range ), Realme ( Budget & Mid-Range ), Oppo ( Mid-Range & Flagship ), Vivo ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Upper Mid-Range ), Samsung ( Galaxy A-series & Select FE ), Motorola ( Budget & Mid-Range ), Tecno ( Budget & Mid-Range ), and Infinix ( Budget & Mid-Range ).
+
+* Phone brands supported: Pixel ( Pixel 5a and older / Snapdragon models ), Samsung ( Mid-Range & Flagship ), Xiaomi ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Flagship ), iQOO ( Mid-Range & Flagship ), Poco ( Mid-Range & Upper Tier ), Realme ( Mid-Range & Upper Tier ), Motorola ( Mid-Range & Flagship ), Sony ( Flagship ), Asus / ROG ( Flagship ), RedMagic ( Flagship ), and Nothing ( Mid-Range & Upper Mid-Range ).
 
 ## Credits
 
 * **Orsoniks**, for making Casualties Unknown, the game this is built on.
-* **Noxbit**, for the Android port and the multiplayer, about a month of work.
+* **Noxbit**, for the Android and Multiplayer port.
 * The multiplayer connects to **KrokMP** (Krokosha's Casualties Together co op mod), which is what the host runs.
 
 ## Notes
