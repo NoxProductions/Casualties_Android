@@ -12,7 +12,7 @@ it works with **KrokMP 4.0.1** hosts.
 1. Get the latest APK from the **Releases** page.
 2. On your phone, allow installing from unknown sources for your browser or file manager.
 3. Open the APK and install it.
-4. Launch the game, it runs offline as a single player game too.
+4. Launch the game.
 
 ## Playing multiplayer
 
