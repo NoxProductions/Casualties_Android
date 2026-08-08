@@ -1,6 +1,6 @@
 # Casualties: Android
 
-This is an Android port of **Casualties Unknown**, with multiplayer built in so you can join real **KrokMP**
+This is an Android port of **Casualties Unknown**, with multiplayer built in so you can join **KrokMP**
 co op games from your phone. Grab the APK from Releases, install it, open the Multiplayer menu, type a host's
 IP, and you drop into their world together.
 
@@ -82,7 +82,7 @@ This is a port, so a few things are not one to one with the PC build.
 
 ## Compatibility
 
-*MediaTek is **NOT** supported and most likely will never be due to a need of a massive rework on shaders for compatibility reasons.* 
+*MediaTek and Tensor are **NOT** supported and most likely will never be due to a need of a massive rework on shaders for compatibility reasons.* 
 
 * Phone brands unsupported: Pixel ( Pixel 6 and newer / Tensor models ), Xiaomi ( Mid-Range & Upper Mid-Range ), Redmi ( Budget & Mid-Range ), Poco ( Select Mid-Range ), Realme ( Budget & Mid-Range ), Oppo ( Mid-Range & Flagship ), Vivo ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Upper Mid-Range ), Samsung ( Galaxy A-series & Select FE ), Motorola ( Budget & Mid-Range ), Tecno ( Budget & Mid-Range ), and Infinix ( Budget & Mid-Range ).
 
