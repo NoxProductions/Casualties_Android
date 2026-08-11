@@ -76,9 +76,7 @@ and the PC may need to allow the game through its firewall on UDP port 7790.
 This is a port, so a few things are not one to one with the PC build.
 
 * Visuals are not identical. The Dither shader was rebuilt from scratch and semi-ported, so lighting and certain effects can look a little different from the PC version.
-* The depression music is not one to one effect wise. It is supposed to have an echo, that was removed for now,
-  and it comes back in the 5.0.0 update.
-* Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 50fps on average.
+* Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 50fps on average in sandbox mode, 30-40fps in WorldGen.
 
 ## Compatibility
 
