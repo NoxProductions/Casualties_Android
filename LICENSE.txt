@@ -26,7 +26,7 @@ All rights, title, and interest in the Original Game and its Original Game Mater
 
 Public distribution of Casualties: Android does not constitute a transfer, assignment, or sublicense of ownership in any Original Game Materials.
 
-The public credits and distribution relationship identify Orsoniks as the developer of Casualties: Unknown and Oro Interactive as its publisher. The rights associated with the Original Game remain subject to the applicable agreements between those parties and applicable law.
+Casualties: Unknown is identified publicly as being developed by Orsoniks and published by Oro Interactive. Rights associated with the Original Game and its Original Game Materials remain subject to the rights of their respective owners, applicable agreements, licenses, and applicable law.
 
 
 3. NoxProductions' Work
@@ -75,7 +75,7 @@ No other rights are granted.
 
 Except where expressly permitted by applicable law, You may not:
 
-Redistribute, mirror, re-upload, sell, rent, lease, sublicense, or otherwise provide the Software or modified copies of the Software to third parties;
+Redistribute, mirror, re-upload, sell, rent, lease, sublicense, or otherwise distribute unauthorized copies or modified versions of the Software;
 
 Modify, patch, alter, repack, or create derivative versions of the distributed APK;
 
@@ -87,9 +87,7 @@ Circumvent, disable, or bypass technical protections implemented in the Software
 
 Remove or alter copyright, attribution, trademark, licensing, or proprietary notices;
 
-Present the Software or a modified version of the Software as an official release of NoxProductions, Orsoniks, or Oro Interactive;
-
-Use the Software or its contents to create or distribute an unauthorized competing version of Casualties: Android or Casualties: Unknown; or
+Present the Software or a modified version of the Software as an official release of NoxProductions, Orsoniks, or Oro Interactive; or
 
 Use any Original Game Materials separately from the Software except where independently authorized by their respective rights holders.
 
