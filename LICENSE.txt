@@ -1,0 +1,131 @@
+# Casualties: Android Proprietary License
+
+**Copyright © 2026 NoxProductions. All Rights Reserved.**
+
+**Casualties: Android** is a proprietary software project and is **not open-source software**. This license governs the rights granted by NoxProductions with respect to the original work comprising the Casualties: Android port.
+
+## 1. Definitions
+
+For purposes of this License:
+
+- **"Software"** means the distributed Casualties: Android application package (APK), including NoxProductions' original modifications, adaptations, integrations, configuration, and other original work incorporated into the port.
+- **"Original Game"** means *Casualties: Unknown*, developed by Orsoniks and published by Oro Interactive.
+- **"Original Game Materials"** means all assets and intellectual property originating from the Original Game, including but not limited to artwork, sprites, textures, audio, music, animations, characters, names, trademarks, game content, original code, and other proprietary materials.
+- **"You"** means any individual or entity accessing, obtaining, installing, or using the Software.
+
+## 2. Ownership of the Original Game
+
+*Casualties: Unknown* is the original game developed by **Orsoniks** and published by **Oro Interactive**.
+
+All rights, title, and interest in the Original Game and its Original Game Materials remain with their respective rights holders. NoxProductions does not claim ownership of the Original Game, its underlying intellectual property, trademarks, or assets.
+
+Public distribution of Casualties: Android does not constitute a transfer, assignment, or sublicense of ownership in any Original Game Materials.
+
+The public credits and distribution relationship identify Orsoniks as the developer of *Casualties: Unknown* and Oro Interactive as its publisher. The rights associated with the Original Game remain subject to the applicable agreements between those parties and applicable law.
+
+## 3. NoxProductions' Work
+
+NoxProductions retains all rights, title, and interest in the original work created for the Casualties: Android port, except for third-party materials and Original Game Materials that are not owned by NoxProductions.
+
+This includes, where applicable:
+
+- Porting and compatibility work;
+- Original code and modifications created by NoxProductions;
+- Original shaders and rendering modifications;
+- Original Android-specific implementation;
+- Custom fixes, adaptations, and integrations;
+- Original configuration and supporting work; and
+- Other original contributions made by NoxProductions.
+
+### Original Rendering and Technical Contributions
+
+NoxProductions' original rendering and technical contributions include, where applicable, newly authored shaders, lighting systems, bloom implementations, lens-flare systems, post-processing effects, rendering pipelines, visual effects, performance optimizations, and other original graphical or technical implementations created independently by NoxProductions.
+
+These contributions remain the property of NoxProductions to the extent permitted by applicable law and are not intended to claim ownership of any underlying Original Game Materials upon which such contributions operate.
+
+Nothing in this License grants ownership of NoxProductions' original work to another person or entity.
+
+## 4. Limited License to Use
+
+Subject to compliance with this License, NoxProductions grants You a limited, non-exclusive, non-transferable, revocable license to:
+
+1. Obtain the Software from an authorized distribution source;
+2. Install the Software on a compatible device; and
+3. Use the Software for personal, non-commercial purposes.
+
+No other rights are granted.
+
+## 5. Prohibited Activities
+
+Except where expressly permitted by applicable law, You may not:
+
+1. Redistribute, mirror, re-upload, sell, rent, lease, sublicense, or otherwise provide the Software or modified copies of the Software to third parties;
+2. Modify, patch, alter, repack, or create derivative versions of the distributed APK;
+3. Extract, reuse, redistribute, or separately publish components of the Software;
+4. Decompile, disassemble, reverse engineer, or otherwise attempt to derive source code from the Software;
+5. Circumvent, disable, or bypass technical protections implemented in the Software;
+6. Remove or alter copyright, attribution, trademark, licensing, or proprietary notices;
+7. Present the Software or a modified version of the Software as an official release of NoxProductions, Orsoniks, or Oro Interactive;
+8. Use the Software or its contents to create or distribute an unauthorized competing version of Casualties: Android or *Casualties: Unknown*; or
+9. Use any Original Game Materials separately from the Software except where independently authorized by their respective rights holders.
+
+These restrictions apply **to the maximum extent permitted by applicable law**. Nothing in this License is intended to prohibit rights that cannot legally be restricted.
+
+## 6. No Transfer of Original Game Rights
+
+Nothing in this License grants You any ownership or licensing rights to:
+
+- *Casualties: Unknown*;
+- Orsoniks' intellectual property;
+- Oro Interactive's publishing rights or intellectual property;
+- Original Game Materials;
+- Casualties: Unknown trademarks, branding, or logos; or
+- Any other third-party intellectual property included in or associated with the Software.
+
+Any such rights must be obtained from the applicable rights holder.
+
+## 7. No Official Affiliation
+
+Unless expressly stated otherwise by the respective rights holders, Casualties: Android is not an official product, release, or distribution channel of Orsoniks or Oro Interactive.
+
+Nothing in this License grants permission to use the names, logos, trademarks, or branding of Orsoniks or Oro Interactive in a manner that implies endorsement, sponsorship, authorization, or official affiliation.
+
+## 8. Contributions and Derivative Work
+
+Because the distributed Software is proprietary, this License does not grant a general right to create, publish, or distribute derivative versions of Casualties: Android.
+
+Any separate authorization to modify, contribute to, or redistribute the Software must be granted explicitly by NoxProductions in writing.
+
+## 9. Termination
+
+The rights granted under this License automatically terminate if You materially violate its terms.
+
+Upon termination, You must cease any use or distribution of the Software that is no longer authorized by this License, subject to rights that cannot legally be terminated.
+
+## 10. Disclaimer
+
+THE SOFTWARE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+NO WARRANTY IS PROVIDED REGARDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, COMPATIBILITY, AVAILABILITY, SECURITY, OR ERROR-FREE OPERATION.
+
+NoxProductions shall not be responsible for damages arising from the use or inability to use the Software, except to the extent liability cannot legally be excluded.
+
+## 11. Reservation of Rights
+
+All rights not expressly granted by this License are reserved by their respective rights holders.
+
+This License does not constitute an open-source license, and no implied license is granted through the publication or distribution of the Software.
+
+## 12. Contact
+
+For licensing, redistribution, modification, or other permissions not expressly granted by this License, contact:
+
+**NoxProductions**
+
+Copyright © 2026 NoxProductions. All Rights Reserved.
+
+---
+
+**Third-Party Rights Notice**
+
+*Casualties: Unknown* is developed by **Orsoniks** and published by **Oro Interactive**. Original Game Materials and related intellectual property are not claimed as the property of NoxProductions and remain subject to the rights of their respective owners.
