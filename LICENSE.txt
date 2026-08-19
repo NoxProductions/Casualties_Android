@@ -4,6 +4,7 @@ Copyright © 2026 NoxProductions. All Rights Reserved.
 
 Casualties: Android is a proprietary software project and is not open-source software. This license governs the rights granted by NoxProductions with respect to the original work comprising the Casualties: Android port.
 
+
 1. Definitions
 
 For purposes of this License:
@@ -16,6 +17,7 @@ For purposes of this License:
 
 "You" means any individual or entity accessing, obtaining, installing, or using the Software.
 
+
 2. Ownership of the Original Game
 
 Casualties: Unknown is the original game developed by Orsoniks and published by Oro Interactive.
@@ -25,6 +27,7 @@ All rights, title, and interest in the Original Game and its Original Game Mater
 Public distribution of Casualties: Android does not constitute a transfer, assignment, or sublicense of ownership in any Original Game Materials.
 
 The public credits and distribution relationship identify Orsoniks as the developer of Casualties: Unknown and Oro Interactive as its publisher. The rights associated with the Original Game remain subject to the applicable agreements between those parties and applicable law.
+
 
 3. NoxProductions' Work
 
@@ -54,6 +57,7 @@ These contributions remain the property of NoxProductions to the extent permitte
 
 Nothing in this License grants ownership of NoxProductions' original work to another person or entity.
 
+
 4. Limited License to Use
 
 Subject to compliance with this License, NoxProductions grants You a limited, non-exclusive, non-transferable, revocable license to:
@@ -65,6 +69,7 @@ Install the Software on a compatible device; and
 Use the Software for personal, non-commercial purposes.
 
 No other rights are granted.
+
 
 5. Prohibited Activities
 
@@ -90,6 +95,7 @@ Use any Original Game Materials separately from the Software except where indepe
 
 These restrictions apply to the maximum extent permitted by applicable law. Nothing in this License is intended to prohibit rights that cannot legally be restricted.
 
+
 6. No Transfer of Original Game Rights
 
 Nothing in this License grants You any ownership or licensing rights to:
@@ -108,11 +114,13 @@ Any other third-party intellectual property included in or associated with the S
 
 Any such rights must be obtained from the applicable rights holder.
 
+
 7. No Official Affiliation
 
 Unless expressly stated otherwise by the respective rights holders, Casualties: Android is not an official product, release, or distribution channel of Orsoniks or Oro Interactive.
 
 Nothing in this License grants permission to use the names, logos, trademarks, or branding of Orsoniks or Oro Interactive in a manner that implies endorsement, sponsorship, authorization, or official affiliation.
+
 
 8. Contributions and Derivative Work
 
@@ -120,11 +128,13 @@ Because the distributed Software is proprietary, this License does not grant a g
 
 Any separate authorization to modify, contribute to, or redistribute the Software must be granted explicitly by NoxProductions in writing.
 
+
 9. Termination
 
 The rights granted under this License automatically terminate if You materially violate its terms.
 
 Upon termination, You must cease any use or distribution of the Software that is no longer authorized by this License, subject to rights that cannot legally be terminated.
+
 
 10. Disclaimer
 
@@ -134,11 +144,13 @@ NO WARRANTY IS PROVIDED REGARDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURP
 
 NoxProductions shall not be responsible for damages arising from the use or inability to use the Software, except to the extent liability cannot legally be excluded.
 
+
 11. Reservation of Rights
 
 All rights not expressly granted by this License are reserved by their respective rights holders.
 
 This License does not constitute an open-source license, and no implied license is granted through the publication or distribution of the Software.
+
 
 12. Contact
 
@@ -147,6 +159,8 @@ For licensing, redistribution, modification, or other permissions not expressly 
 NoxProductions
 
 Copyright © 2026 NoxProductions. All Rights Reserved.
+
+
 
 Third-Party Rights Notice
 
