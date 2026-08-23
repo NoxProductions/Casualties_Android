@@ -1,6 +1,7 @@
 # Casualties: Android
 ![Total Downloads](https://img.shields.io/github/downloads/NoxProductions/Casualties_Android/total)
 ![GitHub Stars](https://img.shields.io/github/stars/NoxProductions/Casualties_Android?style=flat-square&color=gold)
+[![License](https://img.shields.io/badge/License-Custom-gold?style=flat-square)](LICENSE.txt)
 
 This is an Android port of **Casualties Unknown**, with multiplayer built in so you can join **KrokMP**
 co op games from your phone. Grab the APK from Releases, install it, open the Multiplayer menu, type a host's
@@ -77,8 +78,8 @@ and the PC may need to allow the game through its firewall on UDP port 7790.
 
 This is a port, so a few things are not one to one with the PC build.
 
-* Visuals are not identical. The Dither shader was rebuilt from scratch and semi-ported, so lighting and certain effects can look a little different from the PC version.
-* Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 50fps on average in sandbox mode, 30-40fps in WorldGen.
+* Visuals are not identical due to an upgrade in shaders.
+* Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 60fps on average in sandbox mode, 30-40fps in WorldGen.
 
 ## Compatibility
 
@@ -90,9 +91,10 @@ This is a port, so a few things are not one to one with the PC build.
 
 ## Credits
 
-* **Orsoniks**, for making Casualties Unknown, the game this is built on.
+* **[Orsoniks](https://github.com/Orsoniks)**, for making Casualties Unknown, the game this is built on.
 * **Noxbit**, for the Android and Multiplayer port.
-* The multiplayer connects to **KrokMP** (Krokosha's Casualties Together co op mod), which is what the host runs.
+* The multiplayer connects to **[KrokMP](https://github.com/creaturefeaturelarry/casualties-together)** (Krokosha's Casualties Together co op mod), which is what the host runs.
+* [**NotTheBadGuy**](https://github.com/notthebadguy), for play testing Casualties: Android and reporting bugs.
 
 ## Notes
 
