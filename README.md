@@ -83,11 +83,11 @@ This is a port, so a few things are not one to one with the PC build.
 
 ## Compatibility
 
-*MediaTek and Tensor are **NOT** supported and most likely will never be due to a need of a massive rework on shaders for compatibility reasons.* 
+**MediaTek is now mostly supported!** I still don't know about Tensor but that is something I'd have to test or be told about.
 
-* Phone brands unsupported: Pixel ( Pixel 6 and newer / Tensor models ), Xiaomi ( Mid-Range & Upper Mid-Range ), Redmi ( Budget & Mid-Range ), Poco ( Select Mid-Range ), Realme ( Budget & Mid-Range ), Oppo ( Mid-Range & Flagship ), Vivo ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Upper Mid-Range ), Samsung ( Galaxy A-series & Select FE ), Motorola ( Budget & Mid-Range ), Tecno ( Budget & Mid-Range ), and Infinix ( Budget & Mid-Range ).
+* Phone brands probably supported: Pixel ( Pixel 6 and newer / Tensor models ), Xiaomi ( Mid-Range & Upper Mid-Range ), Redmi ( Budget & Mid-Range ), Poco ( Select Mid-Range ), Realme ( Budget & Mid-Range ), Oppo ( Mid-Range & Flagship ), Vivo ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Upper Mid-Range ), Samsung ( Galaxy A-series & Select FE ), Motorola ( Budget & Mid-Range ), Tecno ( Budget & Mid-Range ), and Infinix ( Budget & Mid-Range ).
 
-* Phone brands supported: Pixel ( Pixel 5a and older / Snapdragon models ), Samsung ( Mid-Range & Flagship ), Xiaomi ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Flagship ), iQOO ( Mid-Range & Flagship ), Poco ( Mid-Range & Upper Tier ), Realme ( Mid-Range & Upper Tier ), Motorola ( Mid-Range & Flagship ), Sony ( Flagship ), Asus / ROG ( Flagship ), RedMagic ( Flagship ), and Nothing ( Mid-Range & Upper Mid-Range ).
+* Phone brands fully supported: Pixel ( Pixel 5a and older / Snapdragon models ), Samsung ( Mid-Range & Flagship ), Xiaomi ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Flagship ), iQOO ( Mid-Range & Flagship ), Poco ( Mid-Range & Upper Tier ), Realme ( Mid-Range & Upper Tier ), Motorola ( Mid-Range & Flagship ), Sony ( Flagship ), Asus / ROG ( Flagship ), RedMagic ( Flagship ), and Nothing ( Mid-Range & Upper Mid-Range ).
 
 ## Credits
 
