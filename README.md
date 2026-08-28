@@ -3,6 +3,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/NoxProductions/Casualties_Android?style=flat-square&color=gold)
 [![License](https://img.shields.io/badge/License-Custom-gold?style=flat-square)](LICENSE.txt)
 
+> 💛 Like what I'm building? [sponsoring](https://github.com/sponsors/NoxProductions) goes toward updates, a multiplayer rework, and possible mod support.
+
 This is an Android port of **Casualties Unknown**, with multiplayer built in so you can join **KrokMP**
 co op games from your phone. Grab the APK from Releases, install it, open the Multiplayer menu, type a host's
 IP, and you drop into their world together.
