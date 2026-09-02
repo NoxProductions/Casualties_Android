@@ -5,7 +5,7 @@
 
 > 💛 Like what I'm building? [sponsoring](https://github.com/sponsors/NoxProductions) goes toward updates, a multiplayer rework, and possible mod support.
 
-> For bug reports ( in case you don't have a github account ), you can join my discord [server](https://discord.gg/5TQcFMM54t)
+> For news and bug reports ( in case you don't have a github account ), you can join my discord [server](https://discord.gg/5TQcFMM54t)
 
 This is an Android port of **Casualties Unknown**, with multiplayer built in so you can join **KrokMP**
 co op games from your phone. Grab the APK from Releases, install it, open the Multiplayer menu, type a host's
