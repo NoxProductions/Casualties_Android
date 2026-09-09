@@ -23,60 +23,11 @@ it works with **KrokMP 4.0.1** hosts.
 
 ## Playing multiplayer
 
-This build is **local only**, you join a host by direct IP on the same network. There is no Steam lobby
-browser in this version yet. Steam discovery is coming with **KrokMP 5.0.0**.
-
-To join, open the Multiplayer menu, set your name and the host IP, then press **JOIN KrokMP**. The host needs
-to be running KrokMP and hosting over direct IP.
-
-Use the host PC's **IPv4 address**, not `127.0.0.1`. On the PC, open Command Prompt and run `ipconfig`, then
-look for the IPv4 line under your active adapter, for example:
-
-```
-Ethernet adapter Ethernet:
-
-   Connection-specific DNS Suffix  . :
-   IPv4 Address. . . . . . . . . . . : 192.168.1.42
-```
-
-Type that address (like `192.168.1.42`) into the Host IP field. Both devices need to be on the same network,
-and the PC may need to allow the game through its firewall on UDP port 7790.
-
-## What works and what does not, until KrokMP 5.0.0
-
-| Feature | Status |
-|---|---|
-| Join a KrokMP host by IP and appear in the player list | Works |
-| Load into the host's world, terrain matches the host | Works |
-| See other players as real characters, moving, with nametags and colours | Works |
-| Your movement shows up on the host so others see you move | Works |
-| Carry and piggyback, both directions, with correct facing | Works |
-| Water and fluid sync | Works |
-| Health sync, you can see wounds and the host can pull shrapnel or fix dislocations on you | Works |
-| Loot spawns and syncs, loose items, crates, corpses, command spawned creatures | Works |
-| Pick up, drop, and move items between inventory slots, both directions | Works |
-| Held and worn items show on other players | Works |
-| Keypad and lockpick minigames sync, you can unlock crates with the host's code | Works |
-| Using and eating items reaches the host in most cases | Works |
-| Attacks, hitting buildings and breaking blocks reach the host | Works |
-| Block damage from other players shows up on your screen | Works |
-| In game multiplayer panel with the roster, names, colours, and pings | Works |
-| See Health Panel button for a nearby player, shows their name and vitals | Works |
-| Return to the lobby or menu when the host saves and quits | Works |
-| Cheat command gate, you can only run cheat commands if the host allows it | Works |
-| Steam lobby discovery, joining the public lobby list | Coming in 5.0.0, this build is local only |
-| Eating food off the floor on your phone clearing it on the PC | Does not clear, kept as a gimmick for now |
-| Healing another player from their health panel | View only for now |
-| Seeing other players' hands during a shared minigame | Not yet |
-| Starting medical minigames on other players from your phone | Not yet |
-| Seeing a full inventory of another player beyond what they hold or wear | Not yet |
+Multiplayer will come in the next update, until then, you can still play local only with a PC hosting a KrokMP lobby ( expect bugs ), but not worldwide yet.
 
 ## Known quirks, cosmetic only
 
-* On the other player's screen, your character's facing is sometimes mirrored or stuck. Your own view and all
-  gameplay are correct, it is only how you look to them.
-* Some non networked decor, like cave hole light and glow plants, can differ between screens.
-* Creatures move and attack correctly but their animation is not fully synced.
+Unknown yet ( Multiplayer has not been tested enough )
 
 ## Differences from the PC version
 
@@ -102,6 +53,4 @@ This is a port, so a few things are not one to one with the PC build.
 
 ## Notes
 
-KrokMP 5.0.0 is a full remaster of the mod's sync and it will change how hosting and joining work, including
-Steam discovery. Expect a new APK once that lands. Until then this is the local only version, meant to be
-played with friends over direct IP.
+This native Multiplayer implementation might have some optimization in early builds, if you encounter low FPS on a high-end device while hosting a lobby, please leave an issue with your specs and member count in that lobby. 
