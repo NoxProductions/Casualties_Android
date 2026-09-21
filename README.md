@@ -53,4 +53,4 @@ This is a port, so a few things are not one to one with the PC build.
 
 ## Notes
 
-This native Multiplayer implementation might have some optimization in early builds, if you encounter low FPS on a high-end device while hosting a lobby, please leave an issue with your specs and member count in that lobby. 
+This native Multiplayer implementation might have some optimization issues in early builds, if you encounter low FPS on a high-end device while hosting a lobby, please leave an issue with your specs and member count in that lobby. 
