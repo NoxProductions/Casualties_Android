@@ -21,7 +21,7 @@ Right now, CasMP is in development and will come out once it is stable enough.
 ## Differences from the PC version
 
 There are no differences anymore, the original shaders have been ported mostly 1:1 with only very tiny differences.
-* Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 40fps on average in sandbox mode, 34-38fps in WorldGen.
+* Performance on lower end phones is pretty good, a Pixel 4a ( 2020 ) can run it at about 60fps on average in sandbox mode, 50-60fps in WorldGen.
 
 ## Compatibility
 
