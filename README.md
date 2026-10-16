@@ -16,16 +16,16 @@ This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) b
 
 ## Playing multiplayer ( Coming soon )
 
-Right now, CasMP is in development and will come out with the update.
+Right now, CasMP is in development and will come out once it is stable enough.
 
-## Differences from the PC version ( Coming soon )
+## Differences from the PC version
 
 There are no differences anymore, the original shaders have been ported mostly 1:1 with only very tiny differences.
 * Performance on lower end phones is acceptable, a Pixel 4a ( 2020 ) can run it at about 40fps on average in sandbox mode, 34-38fps in WorldGen.
 
 ## Compatibility
 
-**All Mali GPU's are now mostly supported!**
+**Pretty much all Mali/Tensor GPU's are supported**
 
 * Phone brands likely supported: Pixel ( Pixel 6 and newer / Tensor models ), Xiaomi ( Mid-Range & Upper Mid-Range ), Redmi ( Budget & Mid-Range ), Poco ( Select Mid-Range ), Realme ( Budget & Mid-Range ), Oppo ( Mid-Range & Flagship ), Vivo ( Mid-Range & Flagship ), OnePlus ( Mid-Range & Upper Mid-Range ), Samsung ( Galaxy A-series & Select FE ), Motorola ( Budget & Mid-Range ), Tecno ( Budget & Mid-Range ), and Infinix ( Budget & Mid-Range ).
 
@@ -36,7 +36,4 @@ There are no differences anymore, the original shaders have been ported mostly 1
 * **[Orsoniks](https://github.com/Orsoniks)**, for making Casualties Unknown, the game this is built on.
 * [**NotTheBadGuy**](https://github.com/notthebadguy), for play testing Casualties: Android and reporting bugs.
 * [**Sanana**](https://x.com/sananasrealX?s=20), for in-game sprites and ideas.
-* [**Dune**](https://github.com/Jyan-sei), for optimization ideas and windows work.
-## Notes
-
-CasMP is still in active development so if you encounter any bug, please report it. 
+* [**Dune**](https://github.com/Jyan-sei), for optimization and CasMP help.
