@@ -5,7 +5,7 @@
 
 > For news and bug reports ( in case you don't have a github account ), you can join my discord [server](https://discord.gg/5TQcFMM54t)
 
-This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) built in and crossplay support with the windows version ( coming soon )
+This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) built in and crossplay support with the windows version
 
 ## Download and install
 
@@ -14,9 +14,10 @@ This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) b
 3. Open the APK and install it.
 4. Launch the game.
 
-## Playing multiplayer ( Coming soon )
+## Playing multiplayer
 
-Right now, CasMP is in development and will come out once it is stable enough.
+CasMP ( Casualties: Multiplayer ) is a crossplay multiplayer mod that brings PC and android players together
+> More stuff will be added here shortly
 
 ## Differences from the PC version
 
@@ -34,6 +35,5 @@ There are no differences anymore, the original shaders have been ported mostly 1
 ## Credits
 
 * **[Orsoniks](https://github.com/Orsoniks)**, for making Casualties Unknown, the game this is built on.
-* [**NotTheBadGuy**](https://github.com/notthebadguy), for play testing Casualties: Android and reporting bugs.
 * [**Sanana**](https://x.com/sananasrealX?s=20), for in-game sprites and ideas.
 * [**Dune**](https://github.com/Jyan-sei), for optimization and CasMP help.
