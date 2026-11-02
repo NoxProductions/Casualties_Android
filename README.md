@@ -37,4 +37,4 @@ There are no differences anymore, the original shaders have been ported mostly 1
 * **[Orsoniks](https://github.com/Orsoniks)**, for making Casualties Unknown, the game this is built on.
 * [**Sanana**](https://x.com/sananasrealX?s=20), for in-game sprites and ideas.
 * [**Dune**](https://github.com/Jyan-sei), for optimization and CasMP help.
-* [Creature](https://github.com/creaturefeaturelarry) & [Krokosha666](https://github.com/Krokosha666) for inspiration.
+* [Casualties: Together](https://github.com/creaturefeaturelarry/casualties-together/commits?author=creaturefeaturelarry) by Creature & Krokosha666 for inspiration.
