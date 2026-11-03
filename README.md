@@ -1,8 +1,8 @@
 # Casualties: Android
 ![Total Downloads](https://img.shields.io/github/downloads/NoxProductions/Casualties_Android/total)
-![GitHub Stars](https://img.shields.io/github/stars/NoxProductions/Casualties_Android?style=flat-square&color=gold)
-[![License](https://img.shields.io/badge/License-Custom-gold?style=flat-square)](LICENSE.txt)
-[![Discord Chat](https://img.shields.io/discord/1402794703350530098?color=5865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/5TQcFMM54t)
+![GitHub Stars](https://img.shields.io/badge/stars-68-gold?logo=github)
+[![License](https://img.shields.io/badge/License-Custom-gold)](LICENSE.txt)
+[![Discord Chat](https://img.shields.io/discord/1402794703350530098?color=5865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/5TQcFMM54t)
 > For news and bug reports ( in case you don't have a github account ), you can join my discord [server](https://discord.gg/5TQcFMM54t)
 
 This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) built in and crossplay support with the windows version
