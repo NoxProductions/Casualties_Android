@@ -1,11 +1,16 @@
 # Casualties: Android
-![Total Downloads](https://img.shields.io/github/downloads/NoxProductions/Casualties_Android/total)
-![GitHub Stars](https://img.shields.io/github/stars/NoxProductions/Casualties_Android?style=flat&label=stars&color=gold&logo=github&logoColor=white&cacheSeconds=300)
-[![License](https://img.shields.io/badge/License-Custom-gold)](LICENSE.txt)
-[![Discord Chat](https://img.shields.io/discord/1402794703350530098?color=5865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/5TQcFMM54t)
-> For news and bug reports ( in case you don't have a github account ), you can join my discord [server](https://discord.gg/5TQcFMM54t)
+<img src="https://github.com/user-attachments/assets/001ca14d-91c2-4347-bf78-19d06a91263f" style="background-color: transparent;" alt="Casualties_Android" />
+
+<p align="center">
+  <a href="https://github.com/NoxProductions/Casualties_Android"><img src="https://img.shields.io/github/downloads/NoxProductions/Casualties_Android/total" alt="Total Downloads"></a>
+  <a href="https://github.com/NoxProductions/Casualties_Android"><img src="https://img.shields.io/github/stars/NoxProductions/Casualties_Android?style=flat&label=stars&color=gold&logo=github&logoColor=white&cacheSeconds=300" alt="GitHub Stars"></a>
+  <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-Custom-gold" alt="License"></a>
+  <a href="https://discord.gg/5TQcFMM54t"><img src="https://img.shields.io/discord/1402794703350530098?color=5865F2&label=discord&logo=discord&logoColor=white" alt="Discord Chat"></a>
+</p>
 
 This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) built in and upcoming crossplay support with the windows version
+
+> For news and bug reports ( in case you don't have a github account ), you can join my discord [server](https://discord.gg/5TQcFMM54t)
 
 ## Download and install
 
@@ -47,8 +52,8 @@ This is an Android port of **Casualties: Unknown**, with CasMP ( Multiplayer ) b
 
 ### How to chat
 **There are two ways you can chat with others:**
-1. For chatting: Double press the <img width="32" height="32" alt="chat" src="https://github.com/user-attachments/assets/10b855ac-9447-44d8-bb4e-0d3771cfbe79" /> button
-2. For Voice chat: Press and hold the <img width="32" height="32" alt="chat" src="https://github.com/user-attachments/assets/10b855ac-9447-44d8-bb4e-0d3771cfbe79" /> button
+1. For chatting: Double press the <img alt="chat" src="https://github.com/user-attachments/assets/10b855ac-9447-44d8-bb4e-0d3771cfbe79" style="background-color: transparent;" /> button
+2. For Voice chat: Press and hold the <img alt="chat" src="https://github.com/user-attachments/assets/10b855ac-9447-44d8-bb4e-0d3771cfbe79" style="background-color: transparent;" /> button
 
 **Note:** To use Voice Chat, you need to enable it first
 - For both client and host: Settings > Multiplayer > Your Multiplayer Settings > Voice chat
