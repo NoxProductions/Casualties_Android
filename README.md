@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/001ca14d-91c2-4347-bf78-19d06a91263f" style="background-color: transparent;" alt="Casualties_Android" />
 
 <p align="center">
-  <a href="https://github.com/NoxProductions/Casualties_Android"><img src="https://img.shields.io/github/downloads/NoxProductions/Casualties_Android/total" alt="Total Downloads"></a>
+  <a href="https://github.com/NoxProductions/Casualties_Android"><img src="https://img.shields.io/badge/downloads-15k-2ea44f?logo=github" alt="Total Downloads"></a>
   <a href="https://github.com/NoxProductions/Casualties_Android"><img src="https://img.shields.io/github/stars/NoxProductions/Casualties_Android?style=flat&label=stars&color=gold&logo=github&logoColor=white&cacheSeconds=300" alt="GitHub Stars"></a>
   <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-Custom-gold" alt="License"></a>
   <a href="https://discord.gg/5TQcFMM54t"><img src="https://img.shields.io/discord/1402794703350530098?color=5865F2&label=discord&logo=discord&logoColor=white" alt="Discord Chat"></a>
