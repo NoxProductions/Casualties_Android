@@ -1,4 +1,5 @@
 # Casualties: Android
+<h1 align="center">DEVELOPMENT ON PAUSE UNTIL FURTHER NOTICE</h1>
 <img src="https://github.com/user-attachments/assets/001ca14d-91c2-4347-bf78-19d06a91263f" style="background-color: transparent;" alt="Casualties_Android" />
 
 <p align="center">
